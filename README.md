@@ -59,6 +59,8 @@
       * и библиотеки к ним:
           * [junit-4.11.jar](lib/junit-4.11.jar)
           * [hamcrest-core-1.3.jar](lib/hamcrest-core-1.3.jar)
+          * [jsoup-1.8.1.jar](lib/jsoup-1.8.1.jar)
+          * [quickcheck-0.6.jar](lib/quickcheck-0.6.jar)
    * Откомпилируйте решение домашнего задания
    * Протестируйте домашнее задание
       * Текущая директория должна:
