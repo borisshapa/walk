@@ -1,6 +1,6 @@
 ## Walk
 
-* Класс RecursiveWalk осуществляет подсчет хеш-сумм файлов в директориях.
+* Класс `RecursiveWalk` осуществляет подсчет хеш-сумм файлов в директориях.
 * Формат запуска
     ```
     java Walk <входной файл> <выходной файл>
@@ -61,10 +61,10 @@
           * [hamcrest-core-1.3.jar](lib/hamcrest-core-1.3.jar)
           * [jsoup-1.8.1.jar](lib/jsoup-1.8.1.jar)
           * [quickcheck-0.6.jar](lib/quickcheck-0.6.jar)
-   * Откомпилируйте решение домашнего задания
-   * Протестируйте домашнее задание
+   * Откомпилируйте программу
+   * Протестируйте программу
       * Текущая директория должна:
          * содержать все скачанные `.jar` файлы;
          * содержать скомпилированное решение;
          * __не__ содержать скомпилированные самостоятельно тесты.
-      * ```java -cp . -p . -m info.kgeorgiy.java.advanced.walk RecursiveWalk ru.ifmo.rain.shaposhnikov.RecursiveWalk```
+      * ```java -cp . -p . -m info.kgeorgiy.java.advanced.walk RecursiveWalk ru.ifmo.rain.shaposhnikov.walk.RecursiveWalk```
